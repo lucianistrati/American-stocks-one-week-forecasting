@@ -1,1 +1,1 @@
-# Stock-Prices-Forecasting-
+# American-stocks-one-week-forecasting
